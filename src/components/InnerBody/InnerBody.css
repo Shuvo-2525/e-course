@@ -1,0 +1,30 @@
+.crs-Card {
+    padding: 50px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: transparent;
+    
+}
+
+.heading {
+    font-size: 75px!important;
+    color: red;
+}
+
+.all-card-items {
+    display: flex;
+}
+.card-button {
+    padding-top: 50px;  
+}
+
+.card-button p {
+    font-size: 30px!important;
+    color: yellow;
+}
+
+.card-texts {
+    margin-left: 120px;
+    padding-top: 50px;
+    margin-right: 80px;
+}

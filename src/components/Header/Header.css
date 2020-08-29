@@ -1,0 +1,41 @@
+header {
+    border-bottom: 1px solid red;
+}
+
+.header {
+    background-color: black;
+    height: 80px;
+}
+
+.logo {
+    height: 80px;
+    width: 200px;
+}
+
+.logo img {
+    max-width: 100%;
+}
+
+.nav-link {
+    width: 600px;
+    float: right;
+    padding-top: 30px ;
+}
+
+.nav li a{
+    text-decoration: none;
+    padding: 27px 20px;
+    height: 25px;
+   
+    transform: skew(20deg);
+    color: white;
+    margin-left: 20px;
+    transition: .5s;
+    font-weight: 500;
+
+}
+
+.nav li a:hover {
+    background-color: white;
+    color: black;
+}
